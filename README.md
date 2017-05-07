@@ -6,7 +6,7 @@ A cordova plugin, a JS version of alipay SDK
 而且是新版本插件
 
 # Install
-cordova plugin add https://github.com/bojunk/cordova-plugin-alipay-1.git --variable alipayappid=[你的商户PID可以在账户中查询]
+ionic plugin add https://github.com/bojunk/cordova-plugin-alipay-1.git --variable alipayappid=[你的商户PID可以在账户中查询]
 
 # Usage
 
